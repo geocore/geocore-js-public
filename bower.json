@@ -1,0 +1,24 @@
+{
+  "name": "geocore",
+  "main": "geocore-min.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/devmapmotion/geocore-js-public",
+  "authors": [
+    "Wanasit Tanakitrungruang <berrysboy@gmail.com>",
+    "Purbo Mohamad <purbo@mapmotion.jp>"
+  ],
+  "description": "MapMotion's Geocore JavaScript API",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "karma.conf.js"
+  ],
+  "devDependencies": {
+    "chai": "1.9.1",
+    "jquery": "~1.10.2",
+    "angular": "~1.2.0",
+    "angular-mocks": "~1.2.0"
+  }
+}
