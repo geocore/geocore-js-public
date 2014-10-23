@@ -1,0 +1,1 @@
+(function(){geocore.places.in_bound=function(c,b,g){var a=c.getNorthEast().lat();var d=c.getSouthWest().lng();var e=c.getSouthWest().lat();var f=c.getNorthEast().lng();geocore.places.in_rect(a,d,e,f,b,g)}})();
